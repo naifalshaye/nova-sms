@@ -25,7 +25,7 @@ public function tools()
 }
 ```
 
-![Package screenshot](https://github.com/naifalshaye/nova-sms/blob/master/screenshots/screen.png)
+![Package screenshot](https://raw.githubusercontent.com/naifalshaye/nova-sms/master/screenshots/screen.png)
 
 
 ## Credits
