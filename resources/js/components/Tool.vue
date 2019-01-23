@@ -18,7 +18,7 @@
                         </label>
                     </div>
                     <div class="w-2/2 px-8 py-6">
-                        <input v-model="mobile_number" type="text" id="mobile_number" class="w-full form-control form-input form-input-bordered" required>
+                        <input v-model="mobile_number" type="text" id="mobile_number" class="w-full form-control form-input form-input-bordered">
                     </div>
                 </div>
                 <div class="flex border-b border-40">
@@ -28,7 +28,7 @@
                         </label>
                     </div>
                     <div class="w-2/2 px-8 py-6">
-                        <textarea v-model="sms_text" type="text" id="sms_text" class="w-full form-control form-input form-input-bordered" style="height: 140px;" cols="40" required></textarea>
+                        <textarea v-model="sms_text" class="w-full form-control form-input form-input-bordered" style="height: 140px;" cols="30"></textarea>
                     </div>
                 </div>
             </div>
