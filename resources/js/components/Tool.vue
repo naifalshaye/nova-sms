@@ -1,6 +1,6 @@
 <template>
     <div>
-        <heading class="mb-6">Nova SMS</heading>
+        <heading class="mb-6">SMS</heading>
 
         <card class="flex flex-col items-center justify-center" style="min-height: 300px">
             <div>
