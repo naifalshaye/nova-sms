@@ -1,11 +1,6 @@
 # Laravel Nova SMS
 A Laravel Nova SMS Tool to send messages via the most popular providers.
 
-## Installation
-```
-composer require naif/nova-sms
-```
-
 ## Installation:
 First you must install cammac/sms [cammac/sms](https://github.com/efrontsa/sms) into your Laravel app.
 
