@@ -1,0 +1,33 @@
+{
+    "name": "naif/nova-sms",
+    "description": "A Laravel Nova SMS Tool to send messages via the most popular providers.",
+    "keywords": [
+        "laravel",
+        "nova",
+        "sms",
+        "message",
+        "messages",
+        "mobile"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Naif\\NovaSms\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Naif\\NovaSms\\ToolServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
